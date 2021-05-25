@@ -4,3 +4,4 @@
 build/*
 *.iml
 node_modules/*
+*.js
