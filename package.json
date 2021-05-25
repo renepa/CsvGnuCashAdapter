@@ -1,0 +1,19 @@
+{
+  "name": "CsvGnuCashAdapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "start": "node ./build/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.3.2",
+    "csv-writer": "^1.6.0",
+    "jest": "^26.6.3"
+  }
+}
